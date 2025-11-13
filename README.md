@@ -12,7 +12,7 @@ CSS
 JavaScript
 Bootstrap
 How to Run:
-Clone the repository.
-Navigate to the project directory.
-Open index.html in your web browser.
-Add books and manage them using the interface.
+         1.Clone the repository.
+         2.Navigate to the project directory.
+         3.Open index.html in your web browser.
+         4.Add books and manage them using the interface.
